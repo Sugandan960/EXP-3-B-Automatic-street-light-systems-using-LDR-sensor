@@ -12,7 +12,7 @@ To measure the LDR Sensor using Photoresistor with Arduino UNO Board/ESP-32 usin
 	Photoresistor
   
 ## Circuit Diagram:
-![Uploading image.png…]()
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/f1d2495f-203e-47a0-b1ab-201da6a4273a" />
 
 
 
@@ -98,6 +98,8 @@ void loop()
 
 
 ## Output:
+![Uploading image.png…]()
+
  
 
 
