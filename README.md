@@ -98,7 +98,8 @@ void loop()
 
 
 ## Output:
-![Uploading image.png…]()
+
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/5ef23c6d-f999-40fc-ade4-80e5f6ae5223" />
 
  
 
